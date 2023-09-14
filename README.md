@@ -9,6 +9,8 @@ To run the server
 `nodemon run dev`
 
 To run the client
+
+
 `cd client`
 
 
